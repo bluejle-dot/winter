@@ -16,3 +16,6 @@ print()
 print('이름:{name} 나이:{age}세 몸무게:{wei}kg')
 print(f'이름:{name} 나이:{age}세 몸무게:{wei}kg')
 # print('{} + {} = {}'.format(a,b,total))
+
+
+#test
